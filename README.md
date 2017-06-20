@@ -16,3 +16,4 @@
 * update the package
 * reference bootstrap from a local file instead of CDN
 * reference jquery from a local file instead of CDN
+* include the fonts in the fonts folder
