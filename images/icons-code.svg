@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<style type="text/css">
+  <![CDATA[
+  g #line1 { transition: stroke 0.1s; transition: fill 0.1s;}
+  g #line1:hover { stroke: orange!important; fill: orange!important }
+  g #line2 { transition: stroke 0.1s; transition: fill 0.1s;}
+  g #line2:hover { stroke: orange!important; fill: orange!important }
+  ]]>
+  </style>
+    <g transform="matrix(1,0,0,1,-3081.51,-6.04254)">
+        <g id="Artboar5" transform="matrix(1,0,0,1,3081.51,6.04254)">
+            <rect x="0" y="0" width="500" height="500" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1,-3107.45,-6.04254)">
+                <path id="line1" d="M3277.23,120.819L3122.8,275.243L3277.23,429.668" style="fill:none;stroke:black;stroke-width:4px;"/>
+            </g>
+            <g transform="matrix(-1,0,0,1,3605.32,-6.04254)">
+                <path id="line2" d="M3277.23,120.819L3122.8,275.243L3277.23,429.668" style="fill:none;stroke:black;stroke-width:4px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

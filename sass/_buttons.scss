@@ -1,0 +1,20 @@
+.btn {
+  padding: 15px 60px;
+    margin-bottom: 0;
+    font-size: 25px;
+}
+.btn-primary {
+  color: #222;
+    background-color: #fff;
+    border-color: #fff;
+    &:focus, &:hover, &:active, :active:hover {
+      color: #fff;
+    border-color: #F7971E;
+    background: #F7971E;
+    }
+  }
+.btn-primary:active:hover {
+  color: #F7971E;
+border-color: #fff;
+background: transparent;
+}
